@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "flyers"
+date:   2023-07-25 00:50:17 +0200
+categories: promotion
+---
+
+!["flyer recto"](/img/flyer_recto.jpg "flyer recto")
+
+!["flyer verso"](/img/flyer_verso.jpg "flyer verso")
