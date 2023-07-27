@@ -22,7 +22,6 @@ ou envoyez un mail à [ekop.baudoux@gmail.com](mailto:ekop.baudoux@gmail.com)
 ### Adresse
 
 <a href="https://www.openstreetmap.org/way/62351289" target="_blank">16 Rue Du Commandant Pegout, 69008 Lyon, France</a>
-16 Rue Du Commandant Pegout, 69008 Lyon, France
 
 ### Horaires
 
